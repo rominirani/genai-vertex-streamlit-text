@@ -8,7 +8,7 @@ from streamlit_chat import message
 
 
 st.set_page_config(
-    page_title="Vertex PaLM Text Generation API",
+    page_title="Vertex PaLM Text Generation API Demo",
     page_icon=":robot:",
     layout="centered",
     initial_sidebar_state="expanded",
