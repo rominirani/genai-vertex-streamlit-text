@@ -1,1 +1,1 @@
-![app shot full](/demo/streamlit/hello-world-chat/image/app_shot_02.png)
+# Demonstration of CI/CD Continous Build via Cloud Build for a sample Streamlit App to be hosted on Cloud Run.
