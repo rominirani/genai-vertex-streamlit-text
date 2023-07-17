@@ -58,7 +58,7 @@ with st.sidebar:
 
 
 with st.container():
-    st.write("Current Generator Settings: ")
+    st.write("Current Generator Settings during Demo: ")
     # if st.session_state['temperature'] or st.session_state['debug_mode'] or :
     st.write ("Temperature: ",st.session_state['temperature']," \t \t Token limit: ",st.session_state['token_limit']
                 ," \t \t Top-K: ",st.session_state['top_k']
